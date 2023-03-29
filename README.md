@@ -11,8 +11,8 @@ CSS<br>
 JavaScript<br>
 Git<br>
 
-Como entrar em contato comigo
-Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn]([LinkedIn](https://www.linkedin.com/in/luan-brendon-138477208/)).
+<h3>Como entrar em contato comigo</h3>
+Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem pelo pelo [LinkedIn]([link do seu perfil no LinkedIn](https://www.linkedin.com/in/luan-brendon-138477208/)).
 
 Estou sempre aberto a novas oportunidades e desafios, e adoraria fazer parte de uma equipe de desenvolvimento Front-end. Agradeço desde já pelo seu tempo e consideração!
 
