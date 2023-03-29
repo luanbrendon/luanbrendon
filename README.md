@@ -1,4 +1,4 @@
-### olá! Sou Luan Brendon, sou estudante de ciências da computação
+###
 <h1> Bem-vindo ao meu perfil do GitHub!</h1>
 Meu nome é [Luan Brendon], e sou estudante de Ciência da Computação. Estou em busca da minha primeira oportunidade como programador Front-end.
 
