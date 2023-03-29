@@ -1,5 +1,20 @@
 ### olá! Sou Luan Brendon, sou estudante de ciências da computação
-- 🌱 Estudando HTML, CSS, JAVASCRIPT E JAVA.
+- 🌱 Bem-vindo ao meu perfil do GitHub!
+Meu nome é [Luan Brendon], e sou estudante de Ciência da Computação. Estou em busca da minha primeira oportunidade como programador Front-end.
+
+Sobre mim
+Eu sou apaixonado por tecnologia e sempre estou em busca de aprender novas habilidades. Estou atualmente estudando HTML, CSS e JavaScript para construir sites e aplicações web. Além disso, estou aprendendo a utilizar ferramentas como Git, GitHub, e outras tecnologias relacionadas.
+
+Habilidades
+HTML
+CSS
+JavaScript
+Git
+
+Como entrar em contato comigo
+Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn]([link do seu perfil no LinkedIn](https://www.linkedin.com/in/luan-brendon-138477208/)).
+
+Estou sempre aberto a novas oportunidades e desafios, e adoraria fazer parte de uma equipe de desenvolvimento Front-end. Agradeço desde já pelo seu tempo e consideração!
 
 <div align="center">
   <a href="https://github.com/luanbrendon">
