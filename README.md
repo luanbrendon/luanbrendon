@@ -6,10 +6,10 @@ Meu nome é [Luan Brendon], e sou estudante de Ciência da Computação. Estou e
 Eu sou apaixonado por tecnologia e sempre estou em busca de aprender novas habilidades. Estou atualmente estudando HTML, CSS e JavaScript para construir sites e aplicações web. Além disso, estou aprendendo a utilizar ferramentas como Git, GitHub, e outras tecnologias relacionadas.
 
 <h3>Habilidades</h3>
-HTML
-CSS
-JavaScript
-Git
+HTML<br>
+CSS<br>
+JavaScript<br>
+Git<br>
 
 Como entrar em contato comigo
 Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn]([LinkedIn](https://www.linkedin.com/in/luan-brendon-138477208/)).
