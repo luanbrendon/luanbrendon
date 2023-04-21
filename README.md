@@ -1,4 +1,6 @@
 ###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1> Bem-vindo ao meu perfil do GitHub!</h1>
 Meu nome é [Luan Brendon], e sou estudante de Ciência da Computação. Estou em busca da minha primeira oportunidade como programador Front-end.
 
@@ -16,7 +18,7 @@ Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma men
 
 Estou sempre aberto a novas oportunidades e desafios, e adoraria fazer parte de uma equipe de desenvolvimento Front-end. Agradeço desde já pelo seu tempo e consideração!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 
 <div align="center">
   <a href="https://github.com/luanbrendon">
