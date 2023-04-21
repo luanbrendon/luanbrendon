@@ -16,6 +16,8 @@ Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma men
 
 Estou sempre aberto a novas oportunidades e desafios, e adoraria fazer parte de uma equipe de desenvolvimento Front-end. Agradeço desde já pelo seu tempo e consideração!
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div align="center">
   <a href="https://github.com/luanbrendon">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanbrendon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
