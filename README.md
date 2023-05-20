@@ -18,10 +18,9 @@ Git<br>
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-<h3>Como entrar em contato comigo</h3>
-Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem pelo pelo [Meu perfil no LinkedIn](https://www.linkedin.com/in/luan-brendon-138477208/)
-
-Estou sempre aberto a novas oportunidades e desafios, e adoraria fazer parte de uma equipe de desenvolvimento Front-end. Agradeço desde já pelo seu tempo e consideração!
+<h3>How to Contact Me</h3>
+If you would like to get in touch with me, feel free to send me a message on [My LinkedIn Profile](https://www.linkedin.com/in/luan-brendon-138477208/)
+I am always open to new opportunities and challenges and would love to be part of a Front-end development team. Thank you in advance for your time and consideration!
 
 
 
