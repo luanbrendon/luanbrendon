@@ -3,13 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+Luan+Brendon+da+Silva+Macedo;Eu+tenho+26+anos;Eu+sou+de+Florianópolis,+SC;Eu+estudo+ciências+da+computação+pela+Unisul;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
-<h1> Bem-vindo ao meu perfil do GitHub!</h1>
-Meu nome é [Luan Brendon], e sou estudante de Ciência da Computação. Estou em busca da minha primeira oportunidade como programador Front-end.
-
-<h2>Sobre mim</h2>
-Eu sou apaixonado por tecnologia e sempre estou em busca de aprender novas habilidades. Estou atualmente estudando HTML, CSS e JavaScript para construir sites e aplicações web. Além disso, estou aprendendo a utilizar ferramentas como Git, GitHub, e outras tecnologias relacionadas.
-
-<h3>Habilidades</h3>
+<h1>Welcome to my GitHub profile!</h1>
+My name is Luan Brendon, and I am a Computer Science student. I am seeking my first opportunity as a Front-end developer.
+<h2>About Me</h2>
+I am passionate about technology and always eager to learn new skills. Currently, I am studying HTML, CSS, and JavaScript to build websites and web applications. Additionally, I am learning how to use tools like Git, GitHub, and other related technologies.
+<h3>Skills</h3>
 HTML<br>
 CSS<br>
 JavaScript<br>
