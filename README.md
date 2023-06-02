@@ -1,7 +1,7 @@
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Brendon+da+Silva+Macedo;I'm+26+years+old;I'm+from+Florianópolis,+SC,+Brazil;I'm+currently+studying+Computer+Science+at+Unisul;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Brendon+da+Silva+Macedo;I'm+27+years+old;I'm+from+Florianópolis,+SC,+Brazil;I'm+currently+studying+Computer+Science+at+Unisul;Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1>Welcome to my GitHub profile!</h1>
 My name is Luan Brendon, and I am a Computer Science student. I am seeking my first opportunity as a Front-end developer.
