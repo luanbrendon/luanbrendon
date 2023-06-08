@@ -20,7 +20,8 @@ Git<br>
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 <h3>How to Contact Me</h3>
-If you would like to get in touch with me, feel free to send me a message on [My LinkedIn Profile](https://www.linkedin.com/in/luan-brendon-138477208/)
+
+> If you would like to get in touch with me, feel free to send me a message on [my linkedIn profile](https://www.linkedin.com/in/luan-brendon-138477208/)
 I am always open to new opportunities and challenges and would love to be part of a Front-end development team. Thank you in advance for your time and consideration!
 
 
