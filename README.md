@@ -60,7 +60,7 @@ I am always open to new opportunities and challenges and would love to be part o
   </div>
   
            
-  ![Snake animation](https://github.com/luanbrendon/luanbrendon/blob/output/github-contribution-grid-snake.svg)  
+  ![snake gif](https://github.com/luanbrendon/luanbrendon/blob/output/github-contribution-grid-snake.svg)  
   
   <div align="center">
 <br><p align="centre"><b>Número de Visitantes</b></p>  
