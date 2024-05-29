@@ -11,6 +11,9 @@ I am passionate about technology and always eager to learn new skills. Currently
 HTML<br>
 CSS<br>
 JavaScript<br>
+Java<br>
+Ruby<br>
+C++<br>
 Git<br>
 
 ### Currently Studying:
